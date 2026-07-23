@@ -26,4 +26,4 @@ Python (Pandas), SQL (MySQL), Power BI (DAX, time-intelligence measures, data mo
 - `dashboard/dashboard_screenshot.png` — dashboard preview image
 
 ## Dashboard Preview
-*(screenshot will appear here once uploaded — see below)*
+![Dashboard Screenshot](https://github.com/rahulbisht42002-lan/Superstore_Sales_Analysis/blob/main/Superstore%20sales%20analysis/Screenshot%202026-07-22%20194344.png?raw=true)
